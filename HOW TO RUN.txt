@@ -1,0 +1,6 @@
+redirect to studentsAPI
+json-server --watch db.json
+
+redirect to angularLab52
+ng serve -o
+

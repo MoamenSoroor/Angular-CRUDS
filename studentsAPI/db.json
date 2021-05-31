@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "moamen soroor",
+      "birthDate": "1995-01-22",
+      "email": "moamensoroor@gmail.com",
+      "phone": "0101101001",
+      "track": "SWA"
+    },
+    {
+      "id": 2,
+      "name": "ahmed waleed",
+      "birthDate": "1991-01-11",
+      "email": "ahmed@gmail.com",
+      "phone": "01123333",
+      "track": "SD"
+    },
+    {
+      "id": 3,
+      "name": "Omar Mohammed",
+      "birthDate": "1994-09-16",
+      "email": "omar@gmail.com",
+      "phone": "012341234",
+      "track": "SWA"
+    },
+    {
+      "id": 4,
+      "name": "rahma mohammed",
+      "birthDate": "1991-01-16",
+      "email": "rahma@outlook.com",
+      "phone": "011234213",
+      "track": "SWA"
+    },
+    {
+      "id": 5,
+      "name": "moamen soroor5",
+      "birthDate": "1995-01-22",
+      "email": "moamensoroor2@gmail.com",
+      "phone": "0101101001",
+      "track": "SWA"
+    }
+  ]
+}

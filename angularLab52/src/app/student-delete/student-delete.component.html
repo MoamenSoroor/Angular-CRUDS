@@ -1,0 +1,16 @@
+<div class="row">
+  <h1> Delete Student </h1>
+  <h3 class="h3">Are you sure you want to delete this Student?</h3>
+  <div class="card bg-light text-dark">
+    <div>ID: {{student.id}}</div>
+    <div>Name : {{student.name}}</div>
+    <div>BirthDate : {{student.birthDate}}</div>
+    <div>Email : {{student.email}}</div>
+    <div>Phone : {{student.phone}}</div>
+    <div>Website : {{student.track}}</div>
+  </div>
+  <div>
+    <button class="btn btn-danger m-2" type="button" (click)="deleteStudent()">Delete</button>
+    <a name="" id="" class="btn btn-primary m-2" routerLink="/students" role="button">Back To List</a>
+  </div>
+</div>
